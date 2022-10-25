@@ -1,1 +1,1 @@
-#titulo : conceptos basicos de algoritmia
+# conceptos basicos de algoritmia
